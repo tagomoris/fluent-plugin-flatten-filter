@@ -1,5 +1,7 @@
 # fluent-plugin-flatten-filter
 
+**This plugin is yanked. Use fluent-plugin-flatten-hash instead.**
+
 Fluentd plugin to flatten container values (hashes and arrays) into flat single record recursively, and re-emit it.
 
 ### For example
